@@ -1,6 +1,7 @@
-# Currículo digital — Vinicius Cruz
+# Currículo digital · Vinicius Cruz
 
-Gerente Geral | Design e Produção em Comunicação Visual · Maceió, AL
+Coordenador de Criação e Design · Produção gráfica · Comunicação visual · IA aplicada · Maceió, AL
 
-Página estática (um único `index.html`), publicada com GitHub Pages:
-https://vncruzm-prog.github.io/curriculo/
+Página estática publicada com GitHub Pages: https://vncruzm-prog.github.io/curriculo/
+
+Conceito "retícula": retrato em halftone (three.js) com conta-fios, processo em scroll horizontal (GSAP), projetos em pilha 3D e habilidades com física (Matter.js).
